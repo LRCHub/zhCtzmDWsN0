@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "明日も",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2025-12-02T01:07:27.894524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日も",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/01_明日も_SHISHAMO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日も - Ashitamo",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/02_明日も_-_Ashitamo_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明日も",
+      "artist": "Shishamo",
+      "has_synced": true,
+      "path": "select/03_明日も_Shishamo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明日も - Tomorrow Never Knows",
+      "artist": "MUSH&Co.",
+      "has_synced": true,
+      "path": "select/04_明日も_-_Tomorrow_Never_Knows_MUSH&Co..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "明日も",
+      "artist": "MUSH&Co.",
+      "has_synced": true,
+      "path": "select/05_明日も_MUSH&Co..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "明日も",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/06_明日も_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "明日も (IKUSHAMO Ver.)",
+      "artist": "Shishamo",
+      "has_synced": false,
+      "path": "select/07_明日も_(IKUSHAMO_Ver.)_Shishamo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日も笑おう",
+      "artist": "柏木由紀",
+      "has_synced": false,
+      "path": "select/pl_01_明日も笑おう_柏木由紀.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "明日も",
+      "artist": "柏木由紀",
+      "has_synced": false,
+      "path": "select/pl_02_明日も_柏木由紀.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "明日も(アコースティック ver.)",
+      "artist": "柏木由紀",
+      "has_synced": false,
+      "path": "select/pl_03_明日も(アコースティック_ver.)_柏木由紀.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "明日も",
+      "artist": "柏木由紀",
+      "has_synced": false,
+      "path": "select/pl_04_明日も_柏木由紀.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "明日も",
+      "artist": "柏木由紀",
+      "has_synced": false,
+      "path": "select/pl_05_明日も_柏木由紀.txt"
+    }
+  ]
+}
